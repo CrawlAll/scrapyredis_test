@@ -1,1 +1,1 @@
-# scrapyredis_test
+# 主要是scrapy-redis的一个简单的使用，部署在多台机器上即可实现分布式爬取，并设置有 在下载中间件中有 随机UA和IP池随机IP
